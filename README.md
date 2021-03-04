@@ -1,0 +1,2 @@
+# easyswoole-redis-search-model
+基于easyswoole的redis连接池打造的rediSearchModel类
